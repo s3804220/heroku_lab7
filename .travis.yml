@@ -1,6 +1,5 @@
 language: python
-os:
-  - linux
+os:-linux
 dist: trusty
 script:
-  - python -m pytest -v
+  -python -m pytest -v
