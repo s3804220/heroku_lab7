@@ -2,5 +2,6 @@ import unittest
 
 import app
 
+
 def test_test():
-    assert app.test() == "This test works!"
+    assert app.test() == "Frontend Testing Works!"
